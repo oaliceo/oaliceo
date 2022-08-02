@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oaliceo
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Laravel, JQuery
+- 🌱 I’m currently learning Laravel, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aliceolivier95@gmail.com
 
